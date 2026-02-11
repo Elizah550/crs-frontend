@@ -5,7 +5,6 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: '/crs-frontend',
-  assetPrefix: '/crs-frontend/',
 };
 
 module.exports = nextConfig;
