@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# next build
+.next/
+out/
+
+# env
+.env.local
+.env
+
+# logs
+npm-debug.log*
+
+# mac
+.DS_Store
+
+# large media
+*.mp4
