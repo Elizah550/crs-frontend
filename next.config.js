@@ -4,13 +4,11 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/crs-next-frontend',
-  assetPrefix: '/crs-next-frontend/',
+  basePath: '/crs-frontend',
+  assetPrefix: '/crs-frontend/',
 };
 
 module.exports = nextConfig;
-
-
 
 /**Past code */
 // /** @type {import('next').NextConfig} */
